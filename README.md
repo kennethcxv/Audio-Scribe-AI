@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pluto Hacks 2023
  Hackathon Project for Pluto Hacks 2023
 
@@ -85,3 +86,6 @@ Here are some of the main endpoints:
 - **Load Latest Recording**: \`GET /load_latest_recording\`
 
 Refer to the source code or generated API documentation (if available) for detailed endpoint specifications.
+=======
+# Audio-Scribe-AI
+>>>>>>> 9bbe503aab83419e5ef6d33d6ec62ef6180feb7e
