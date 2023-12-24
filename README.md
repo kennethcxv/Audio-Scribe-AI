@@ -1,5 +1,4 @@
 # Pluto Hacks 2023 Hackathon Project
-
 Welcome to our project for Pluto Hacks 2023! This repository contains all the necessary information and resources for our innovative hackathon project.
 
 ## Requirements 
