@@ -45,7 +45,7 @@ Key API endpoints include:
 
 ## Contributing
 
-Contributions to this project are welcome!
+We deeply appreciate contributions from the community and are excited to welcome your support. Whether you're fixing bugs, adding new features, or improving documentation, your help is invaluable. 
 
 ## License
 
